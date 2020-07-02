@@ -26,7 +26,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3369a57e-65b8-4d16-8992-62bf7280d079" name="Default" comment="" />
+    <list default="true" id="3369a57e-65b8-4d16-8992-62bf7280d079" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +39,6 @@
   </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>title span</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +55,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,6 +78,9 @@
       <workItem from="1593587308417" duration="7552000" />
       <workItem from="1593601667803" duration="12537000" />
       <workItem from="1593678770082" duration="433000" />
+      <workItem from="1593684043700" duration="136000" />
+      <workItem from="1593685513031" duration="2576000" />
+      <workItem from="1593689953934" duration="9089000" />
     </task>
     <servers />
   </component>
@@ -103,11 +109,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="914" y="311" key="FileChooserDialogImpl" timestamp="1593682864888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="914" y="311" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593682864888" />
     <state x="946" y="417" key="Github.CreatePullRequestDialog" timestamp="1593679445179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="946" y="417" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593679445179" />
+    <state x="527" y="165" key="SettingsEditor" timestamp="1593683153328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593683153328" />
   </component>
 </project>

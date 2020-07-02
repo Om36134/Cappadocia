@@ -42,6 +42,6 @@ $('.fairy-tail__slider').slick({
             top = $(id).offset().top;
 
         //анимируем переход на расстояние - top за 1500 мс
-        $('body,html').animate({scrollTop: top}, 1500);
+        $('body,html').animate({scrollTop: top}, 2500);
     });
 });
